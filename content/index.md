@@ -1,8 +1,10 @@
 +++
-date = 2024-05-06T00:35:01-04:00
+title = ''
+date = 2024-05-06T10:25:23-04:00
 draft = false
 +++
-[Posts](/personal-website/posts/my-first-post/)
+
+[Posts](/personal-website/posts/my-first-post/), [Publications](/personal-website/publications/publications/)
 
 ## Introduction
 

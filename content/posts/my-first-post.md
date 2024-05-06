@@ -9,4 +9,4 @@ This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
 
-[Main](/personal-website/about/)
+[Main](/personal-website/)

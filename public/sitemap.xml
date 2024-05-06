@@ -2,17 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/personal-website/about/</loc>
-    <lastmod>2024-05-06T00:35:01-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/personal-website/</loc>
-    <lastmod>2024-05-06T00:35:01-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/personal-website/posts/my-first-post/</loc>
-    <lastmod>2024-05-06T00:29:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/personal-website/posts/</loc>
-    <lastmod>2024-05-06T00:29:19-04:00</lastmod>
+    <lastmod>2024-05-06T10:25:23-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/personal-website/categories/</loc>
   </url><url>
