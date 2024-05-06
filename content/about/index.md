@@ -2,7 +2,7 @@
 date = 2024-05-06T00:35:01-04:00
 draft = false
 +++
-[Posts](/posts/my-first-post/)
+[Posts](/personal-website/posts/my-first-post/)
 
 ## Introduction
 
