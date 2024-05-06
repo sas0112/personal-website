@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhan Shi</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Zhan Shi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 May 2024 00:35:01 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zhan Shi</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 06 May 2024 00:35:01 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Posts&#xA;Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>My Posts</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 06 May 2024 00:29:19 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction Hello, my name is Zhan Shi, an incomming first year computer science Phd student at Rice University. I have recently graduated from University of Michigan, Computer Science &amp;amp; Enginnering with both my M.S. in Computer Science and B.S. double major in Computer Science and Mathematical Sciences (Algorithmic Methods Track). I will be following with professor Maryam Aliakbarpour in research of staistical machine learning, differential privacy and a lot of algorithms relating to big data.</description>
+    </item>
+  </channel>
+</rss>
